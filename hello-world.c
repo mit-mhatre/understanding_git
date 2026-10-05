@@ -1,9 +1,6 @@
 #include <stdio.h>
-
-int main()
+## We can use void to avoid return
+void main()
 {
 printf("Hello World");
-
-return 0;
-
 }
